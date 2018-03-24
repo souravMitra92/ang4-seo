@@ -34,4 +34,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     > By running command `npm install`
 
 - Run command `npm run start`
-    > This will start server which listnes to port: 4000
+    > This will start server which listens to port: 4000
